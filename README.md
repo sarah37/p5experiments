@@ -1,4 +1,4 @@
 # p5.js Experiments
 
-* [paperplanes](http://www.sarahschoettler.com/p5experiments/paperplanes/)
-* [circlething](http://www.sarahschoettler.com/p5experiments/circlething/)
+* [Paper planes](https://sarah37.github.io/p5experiments/paperplanes/)
+* [Abstract pattern](https://sarah37.github.io/p5experiments/circlething/)
